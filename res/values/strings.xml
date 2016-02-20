@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IRSensor</string>
+    <string name = "ir_button">IR Blaster</string>
+    <string name="hello_world">Hello world!</string>
+    <string name = "ir_on_toast">IR Blaster On!</string>
+    <string name="ir_off_toast">IR Blaster Off!</string>
+    <string name="action_settings">Settings</string>
+</resources>
